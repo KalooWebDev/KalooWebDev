@@ -4,6 +4,9 @@
 
 <p> Infelizmente não tenho um Computador 🖥 o que dificulta muito o meu aprendizado, porém mesmo assim eu não desisto e mesmo com apenas o meu Celular 📱 eu estou seguindo em frente. </p>
 
+
+##
+
 <br>
 
 <div align="center">
