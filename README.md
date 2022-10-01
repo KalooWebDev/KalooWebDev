@@ -1,8 +1,15 @@
-<h1 style="color:#FF2B82">Olá Eu Sou o AxoloteDev!</h1>
+<h1 style="text-align:center;">AxoloteDev</h1>
 
-- Atualmente sou apenas um Estudante 📚
+<h2>Eu me chamo Renan Kalu, é um prazer!</h2>
 
-<p> Infelizmente não tenho um Computador 🖥 o que dificulta muito o meu aprendizado, porém mesmo assim eu não desisto e mesmo com apenas o meu Celular 📱 eu estou seguindo em frente. </p>
+- Tenho 16 anos ✨ - 15/01/2006 🎉
+- Moro no Brasil 🇧🇷 
+- Estou em uma jornada para adquirir conhecimento 📚
+- Atualmente estudando Vanilla JavaScript 🌱
+
+<p> Atualmente estou estudando para ser um front-end já tendo muita experiência com HTML e CSS, mas futuramente pretendo me aventurar com o back-end 💻</p>
+
+<p> Meu maior hobbie é tocar 🎸 inclusive se quiser ver alguns dos meus covers é só seguir @renankalu666</p>
 
 
 ##
@@ -17,10 +24,9 @@
   
   ##
   
- <div style="display: inline_block"><br>
+ <div style="display: inline_block; margin: auto;"><br>
      <img align="center" alt="Axolote-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Axolote-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Axolote-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
   
