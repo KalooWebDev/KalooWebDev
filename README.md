@@ -9,6 +9,8 @@
 
 <p> Atualmente estou estudando para ser um front-end já tendo muita experiência com HTML e CSS, mas futuramente pretendo me aventurar com o back-end 💻</p>
 
+<a href="https://codepen.io/axolotedev">Meu CodePen</a>
+
 <p> Meu maior hobbie é tocar 🎸 inclusive se quiser ver alguns dos meus covers é só seguir @renankalu</p>
 
 
