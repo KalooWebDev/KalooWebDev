@@ -5,14 +5,11 @@
 - Tenho 17 anos ✨ - 15/01/2006 🎉
 - Moro no Brasil 🇧🇷 
 - Estou em uma jornada para adquirir conhecimento 📚
-- Atualmente estudando Vanilla JavaScript 🌱
+- Atualmente estudando Node JS 🌱
 
-<p> Atualmente estou estudando para ser um front-end já tendo muita experiência com HTML e CSS, mas futuramente pretendo me aventurar com o back-end 💻</p>
+<p> Atualmente estou estudando para ser um front-end já tendo alguns projetos com HTML, CSS e JS mas futuramente pretendo me aventurar com o back-end 💻</p>
 
 <a href="https://codepen.io/axolotedev">Meu CodePen 🖊️</a>
-
-<p> Meu maior hobbie é tocar 🎸 inclusive se quiser ver alguns dos meus covers é só seguir @renankalu</p>
-
 
 ##
 
@@ -27,6 +24,7 @@
  <div style="display: inline_block; margin: auto;"><br>
      <img align="center" alt="Axolote-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Axolote-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Axolote-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original.svg">
 </div>
   
   
