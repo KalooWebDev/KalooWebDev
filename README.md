@@ -2,10 +2,12 @@
 
 <h2>Olá! Eu me chamo Renan Kalu</h2>
 
-1. Tenho 17 anos ✨ - 15/01/2006 🎉
-2. Brasil - SP 🇧🇷 
-3. Estou em uma jornada para adquirir conhecimento 📚
-4. Atualmente estudando Node JS 🌱
+<ol>
+<li> Tenho 17 anos ✨ - 15/01/2006 🎉</li>
+<li> Brasil - SP 🇧🇷 </li>
+<li> Estou em uma jornada para adquirir conhecimento 📚 </li>
+<li> Atualmente estudando Node JS 🌱</li>
+</ol>
 
 <hr>
 
