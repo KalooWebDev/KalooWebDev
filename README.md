@@ -1,13 +1,13 @@
-#AxoloteDev
+<h1AxoloteDev<h1>
 
-##Olá! Eu me chamo Renan Kalu
+<h2>Olá! Eu me chamo Renan Kalu<h2>
 
 1. Tenho 17 anos ✨ - 15/01/2006 🎉
 2. Brasil - SP 🇧🇷 
 3. Estou em uma jornada para adquirir conhecimento 📚
 4. Atualmente estudando Node JS 🌱
 
----
+<hr>
 
  Atualmente estou estudando para ser um desenvolvedor front-end já tendo alguns projetos com HTML, CSS e JS mas futuramente pretendo me aventurar com o back-end 💻
 
@@ -17,9 +17,9 @@
 
  Hoje em dia tudo isso não passa de um hobby já que sou apenas alguém normal que tem um trabalho comum, porém futuramente pretendo dedicar todo meu tempo a programação 🕑
 
-**Aguardem mais Projetos**
+<strong>Aguardem mais Projetos</strong>
 
----
+<hr>
 
 <div align="center">
   <a href="https://github.com/Axolotedev">
@@ -30,7 +30,7 @@
  <div style="display: inline_block; margin: auto;"><br>
      <img align="center" alt="Axolote-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Axolote-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   img align="center" alt="Axolote-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="Axolote-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
   
   
