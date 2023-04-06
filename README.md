@@ -3,7 +3,7 @@
 <h2>Eu me chamo Renan Kalu, é um prazer!</h2>
 
 - Tenho 17 anos ✨ - 15/01/2006 🎉
-- Moro no Brasil 🇧🇷 
+- Brasil - SP 🇧🇷 
 - Estou em uma jornada para adquirir conhecimento 📚
 - Atualmente estudando Node JS 🌱
 
