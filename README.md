@@ -1,19 +1,25 @@
-<h1 style="text-align:center;">AxoloteDev</h1>
+#AxoloteDev
 
-<h2>Eu me chamo Renan Kalu, é um prazer!</h2>
+##Olá! Eu me chamo Renan Kalu
 
-- Tenho 17 anos ✨ - 15/01/2006 🎉
-- Brasil - SP 🇧🇷 
-- Estou em uma jornada para adquirir conhecimento 📚
-- Atualmente estudando Node JS 🌱
+1. Tenho 17 anos ✨ - 15/01/2006 🎉
+2. Brasil - SP 🇧🇷 
+3. Estou em uma jornada para adquirir conhecimento 📚
+4. Atualmente estudando Node JS 🌱
 
-<p> Atualmente estou estudando para ser um front-end já tendo alguns projetos com HTML, CSS e JS mas futuramente pretendo me aventurar com o back-end 💻</p>
+---
 
-<a href="https://codepen.io/axolotedev">Meu CodePen 🖊️</a>
+ Atualmente estou estudando para ser um desenvolvedor front-end já tendo alguns projetos com HTML, CSS e JS mas futuramente pretendo me aventurar com o back-end 💻
 
-##
+ Essa área da programação é meu verdadeiro sonho e cada novo projeto é um novo aprendizado, minha jornada é para não ser só mais um desenvolvedor qualquer que apenas cópia código, e sim para me tornar alguém que sabe e tem total controle do que está fazendo 🌱
 
-<br>
+ Eu também sou Web Designer 🎨 e futuramente disponibilizarei alguns de meus trabalhos
+
+ Hoje em dia tudo isso não passa de um hobby já que sou apenas alguém normal que tem um trabalho comum, porém futuramente pretendo dedicar todo meu tempo a programação 🕑
+
+**Aguardem mais Projetos**
+
+---
 
 <div align="center">
   <a href="https://github.com/Axolotedev">
@@ -24,8 +30,7 @@
  <div style="display: inline_block; margin: auto;"><br>
      <img align="center" alt="Axolote-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Axolote-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Axolote-CSS" height="30" width="40" src="https://raw.githubusercontent.com/
-devicons/devicon/master/icons/javascript/javascript-original.svg >
+   img align="center" alt="Axolote-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
   
   
