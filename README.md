@@ -1,6 +1,6 @@
-<h1AxoloteDev<h1>
+<h1AxoloteDev</h1>
 
-<h2>Olá! Eu me chamo Renan Kalu<h2>
+<h2>Olá! Eu me chamo Renan Kalu</h2>
 
 1. Tenho 17 anos ✨ - 15/01/2006 🎉
 2. Brasil - SP 🇧🇷 
