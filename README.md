@@ -6,7 +6,7 @@
 <li> Tenho 17 anos ✨ - 15/01/2006 🎉</li>
 <li> Brasil - SP 🇧🇷 </li>
 <li> Estou em uma jornada para adquirir conhecimento 📚 </li>
-<li> Atualmente Criando Projetos em JS 🌱</li>
+<li> Atualmente Aprendendo a criar Extensões para Navegadores🌱</li>
 </ol>
 
 <hr>
