@@ -23,7 +23,7 @@
 
 <hr>
   
- <div style="display: inline_block; margin: auto;"><br>
+ <div style="display: flex; margin: auto; align-items: center; justify-content: center"><br>
      <img align="center" alt="Axolote-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Axolote-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Axolote-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
