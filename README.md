@@ -6,7 +6,7 @@
 <li> Tenho 17 anos ✨ - 15/01/2006 🎉</li>
 <li> Jundiaí - SP 🇧🇷 </li>
 <li> Estou em uma jornada para adquirir conhecimento 📚 </li>
-<li> Atualmente Aprendendo Git🌱</li>
+<li> Atualmente Aprendendo Segurança e Acessibilidade na Web🌱</li>
 </ol>
 
 <hr>
