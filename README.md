@@ -6,7 +6,7 @@
 <li> Tenho 17 anos ✨ - 15/01/2006 🎉</li>
 <li> Jundiaí - SP 🇧🇷 </li>
 <li> Estou em uma jornada para adquirir conhecimento 📚 </li>
-<li> Atualmente Estudando para Vestibular🌱</li>
+<li> Atualmente Estudando para Vue.JS🌱</li>
 </ol>
 
 <hr>
