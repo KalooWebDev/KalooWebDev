@@ -6,18 +6,18 @@
 <li> Tenho 17 anos ✨ - 15/01/2006 🎉</li>
 <li> Jundiaí - SP 🇧🇷 </li>
 <li> Estou em uma jornada para adquirir conhecimento 📚 </li>
-<li> Atualmente Estudando Vue.JS🌱</li>
+<li> Atualmente Estudando React.JS🌱</li>
 </ol>
 
 <hr>
 
- Atualmente estou estudando para ser um desenvolvedor front-end já tendo alguns projetos com HTML, CSS e JS mas futuramente pretendo me aventurar com o back-end 💻
+ Atualmente estou estudando para ser um desenvolvedor front-end já tendo alguns projetos com HTML, CSS e JS, mas futuramente pretendo me aventurar com o back-end 💻
 
  Essa área da programação é meu verdadeiro sonho e cada novo projeto é um novo aprendizado, minha jornada é para não ser só mais um desenvolvedor qualquer que apenas cópia código, e sim para me tornar alguém que sabe e tem total controle do que está fazendo 🌱
 
  Eu também sou Web Designer 🎨 e futuramente disponibilizarei alguns de meus trabalhos
 
- Hoje em dia tudo isso não passa de um hobby já que sou apenas alguém normal que tem um trabalho comum, porém futuramente pretendo dedicar todo meu tempo a programação 🕑
+ Hoje em dia tudo isso não passa de um passatempo já que sou apenas alguém normal, com trabalho comum, porém futuramente pretendo dedicar todo meu tempo a programação 🕑
 
 <strong>Aguardem mais Projetos</strong>
 
@@ -30,9 +30,7 @@
    <img align="center" alt="Axolote-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
   
-  
   ##
-  
 
 <!--
 **AxoloteDev/AxoloteDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
