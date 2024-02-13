@@ -3,9 +3,9 @@
 <h2>Olá! Eu me chamo Renan Kalu</h2>
 
 <ol>
-<li> Tenho 18 anos ✨ - 15/01/2006 🎉</li>
-<li> Jundiaí - SP 🇧🇷 </li>
-<li> Estou em uma jornada para adquirir conhecimento 📚 </li>
+<li> Eu tenho 18 anos ✨ - 15/01/2006 🎉</li>
+<li> Moro em Jundiaí - SP 🇧🇷 </li>
+<li> E estou em uma jornada para adquirir conhecimento 📚 </li>
 <li> Atualmente Estudando React.JS🌱</li>
 </ol>
 
@@ -17,7 +17,7 @@
 
  Eu também sou Web Designer 🎨 e futuramente disponibilizarei alguns de meus trabalhos
 
- Hoje em dia tudo isso não passa de um passatempo já que sou apenas alguém normal, com trabalho comum, porém futuramente pretendo dedicar todo meu tempo a programação 🕑
+ Hoje em dia tudo isso não passa de um passatempo já que sou apenas alguém com um trabalho comum, porém futuramente pretendo dedicar 100% do meu tempo a programação 🕑
 
 <strong>Aguardem mais Projetos</strong>
 
