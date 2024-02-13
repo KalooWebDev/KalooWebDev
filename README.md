@@ -3,7 +3,7 @@
 <h2>Olá! Eu me chamo Renan Kalu</h2>
 
 <ol>
-<li> Tenho 17 anos ✨ - 15/01/2006 🎉</li>
+<li> Tenho 18 anos ✨ - 15/01/2006 🎉</li>
 <li> Jundiaí - SP 🇧🇷 </li>
 <li> Estou em uma jornada para adquirir conhecimento 📚 </li>
 <li> Atualmente Estudando React.JS🌱</li>
