@@ -7,6 +7,7 @@
 <li> Moro em Jundiaí - SP 🇧🇷 </li>
 <li> E estou em uma jornada para adquirir conhecimento 📚 </li>
 <li> Atualmente Estudando React.JS🌱</li>
+ <li>Cursando: Análise e desenvolvimento de sistema na FMU 🎓</li>
 </ul>
 
 <hr>
