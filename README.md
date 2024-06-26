@@ -4,10 +4,10 @@
 
 <ul>
 <li> Eu tenho 18 anos ✨ - 15/01/2006 🎉</li>
-<li> Moro em Jundiaí - SP 🇧🇷 </li>
+<li> Jundiaí - SP 🇧🇷 </li>
 <li> Estou em uma jornada para adquirir conhecimento 📚 </li>
 <li> Atualmente Estudando React.JS🌱</li>
- <li>Cursando: Análise e desenvolvimento de sistema na FMU 🎓</li>
+ <li>Cursando: Desenvolvimento de sistema embarcado - FATEC 🎓</li>
 </ul>
 
 <hr>
